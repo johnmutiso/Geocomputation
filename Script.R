@@ -1,6 +1,6 @@
 library(leaflet)
 
-# Chatper - 02
+# Chapter - 02
 # packages
 # install.packages("sf")
 # install.packages("raster")
